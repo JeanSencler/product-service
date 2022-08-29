@@ -1,0 +1,4 @@
+INSERT INTO product (PRODUCT_NAME) VALUES ('Camion');
+INSERT INTO product (PRODUCT_NAME) VALUES ('Moto');
+INSERT INTO product (PRODUCT_NAME) VALUES ('Tractor');
+
